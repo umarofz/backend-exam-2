@@ -15,8 +15,6 @@ export const eventSchema = Joi.object({
     image: Joi.string().pattern(new RegExp(/\.(gif|jpe?g|png|webp)$/i)).max(3000000).required().error(new Error('Not correct format or size'))
 })
 
-
-
 export const loginSchema = Joi.object({
     login: Joi.string().required(),
     password: Joi.string().min(8).required()

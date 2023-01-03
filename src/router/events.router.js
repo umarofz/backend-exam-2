@@ -9,5 +9,4 @@ router.get('/events/queue/:eventId', status, eventsController.GET)
 router.get('/events/:eventId', eventsController.GET)
 router.post('/events', validate, eventsController.POST)
 
-
 export default router

@@ -25,7 +25,6 @@ const swaggerDocs = swaggerJSDoc({
             title: 'Events API',
             description: 'Events API docs'
         },
-        
         components: {
             securitySchemes: {
                 Bearer: {
@@ -40,8 +39,6 @@ const swaggerDocs = swaggerJSDoc({
     apis: [`${process.cwd()}/src/swagger/components/*.yaml`, `${process.cwd()}/src/swagger/docs/*.yaml`]
 })
 
-
 router.use('/', swaggerUi.serve, swaggerUi.setup(swaggerDocs))
-
 
 export default router;
