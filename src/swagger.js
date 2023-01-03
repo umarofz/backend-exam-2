@@ -10,6 +10,10 @@ const swaggerDocs = swaggerJSDoc({
         openapi: '3.0.0',
         servers: [
             {
+                url: `https://backend-exam-2.onrender.com/`,
+                description: 'Events API Doc'
+            },
+            {
                 url: `http://localhost:${PORT}`,
                 description: 'Events API Doc',
                 variables: {
@@ -18,10 +22,6 @@ const swaggerDocs = swaggerJSDoc({
                         default: PORT
                     }
                 }
-            },
-            {
-                url: `https://backend-exam-2.onrender.com/`,
-                description: 'Events API Doc'
             }
         ],
         info: {
