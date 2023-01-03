@@ -18,6 +18,10 @@ const swaggerDocs = swaggerJSDoc({
                         default: PORT
                     }
                 }
+            },
+            {
+                url: `https://backend-exam-2.onrender.com/`,
+                description: 'Events API Doc'
             }
         ],
         info: {
