@@ -1,0 +1,75 @@
+components:
+  schemas:
+    Response:
+      type: object
+      properties:
+        status: 
+          type: integer
+        message:
+          type: string
+        data:
+          type: array
+          items:
+            type: object
+            properties:
+              eventId:
+                type: integer
+              img:
+                type: string
+              description:
+                type: string
+              owner:
+                type: string
+              proffesion:
+                type: string
+              date:
+                type: string
+              time:
+                type: string
+              type:
+                type: string
+              views:
+                type: integer
+              status:
+                type: string
+              category:
+                type: array
+                items:
+                  type: object
+                  properties: string
+              subCategory: 
+                type: string
+              link: 
+                type: string
+              tel: 
+                type: integer
+              body: 
+                type: string
+    PostEvent:
+      type: object
+      properties:
+        image:
+          type: string
+          format: binary
+        description:
+          type: string
+        owner:
+          type: string
+        proffesion:
+          type: string
+        date:
+          type: string
+        time:
+          type: string
+        type:
+          type: string
+        category:
+          type: string
+        subCategory:
+          type: string
+        link:
+          type: string
+        tel:
+          type: integer
+        body:
+          type: string

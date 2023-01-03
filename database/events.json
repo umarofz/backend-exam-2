@@ -1,0 +1,176 @@
+[
+    {
+        "eventId": 1,
+        "img": "alisher_isayev.png",
+        "description": "Alisher Isaevdan biznes va IT bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Tadbirkor",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Online",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes",
+            "IT"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 2,
+        "img": "jahongir_gulomov.png",
+        "description": "Jahongir G'ulamovdan dizayn sohasi bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Grafik dizayner",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Offline",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Dizayn"
+        ],
+        "subCategory": "Grafik dizayn",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 3,
+        "img": "eshinqulov.png",
+        "description": "Yuksalish loyihasi AQSHda ovozli suhbat",
+        "owner": "MuhammadAli Eshonqulov",
+        "proffesion": "Biznesmen",
+        "date": "17/01/2022",
+        "time": "21:00",
+        "type": "Online",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 4,
+        "img": "kaziyeva.png",
+        "description": "Sadoqat Kaziyevadan UI/UX bo'yicha master klass",
+        "owner": "Sadoqat Kaziyeva",
+        "proffesion": "UI/UX designer",
+        "date": "21/10/2022",
+        "time": "15:00",
+        "type": "Offline",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 5,
+        "img": "alisher_isayev.png",
+        "description": "Alisher Isaevdan biznes va IT bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Tadbirkor",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Online",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes",
+            "IT"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 6,
+        "img": "jahongir_gulomov.png",
+        "description": "Jahongir G'ulamovdan dizayn sohasi bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Grafik dizayner",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Offline",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Dizayn"
+        ],
+        "subCategory": "Grafik dizayn",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 7,
+        "img": "alisher_isayev.png",
+        "description": "Alisher Isaevdan biznes va IT bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Tadbirkor",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Online",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes",
+            "IT"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 8,
+        "img": "jahongir_gulomov.png",
+        "description": "Jahongir G'ulamovdan dizayn sohasi bo'yicha master klass",
+        "owner": "Alisher Isaev",
+        "proffesion": "Grafik dizayner",
+        "date": "17/01/2022",
+        "time": "15:00",
+        "type": "Offline",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Dizayn"
+        ],
+        "subCategory": "Grafik dizayn",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    },
+    {
+        "eventId": 9,
+        "img": "eshinqulov.png",
+        "description": "Yuksalish loyihasi AQSHda ovozli suhbat",
+        "owner": "MuhammadAli Eshonqulov",
+        "proffesion": "Biznesmen",
+        "date": "17/01/2022",
+        "time": "21:00",
+        "type": "Online",
+        "views": 2550,
+        "status": "approved",
+        "category": [
+            "Biznes"
+        ],
+        "subCategory": "Menejment",
+        "link": "youtube.com/NajotTalim",
+        "tel": 998998888888,
+        "body": "yufjlvekfeflwefweofggyiwelfksfsfsfs"
+    }
+]

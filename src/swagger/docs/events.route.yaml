@@ -1,0 +1,49 @@
+/events:
+  get:
+    tags:
+      - events
+    responses:
+      "200":
+        description: GET all events
+        content: 
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Response"
+  post:
+    tags:
+      - events
+    requestBody:  
+      description: POST new event
+      content: 
+        multipart/form-data:
+          schema:
+            $ref: '#/components/schemas/PostEvent'
+      required: true
+    responses:
+      "201":
+        description: POST new event
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Response"
+
+/events/queue/{eventId}:
+  get:
+    tags:
+      - queue
+    parameters:
+      - name: eventId
+        in: path
+        description: event tasdiqlash
+        required: true
+    responses:
+      "200":
+        description: event query orqali tasdiqlash
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Response"
+    security:
+      - Bearer:
+          type: oauth
+    
